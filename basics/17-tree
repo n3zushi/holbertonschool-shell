@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir welcome,../to,../../scholl
+mkdir welcome/to/scholl
