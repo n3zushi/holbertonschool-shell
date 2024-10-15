@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(((LOVE * 2 * 10) + BREATH))
+echo $(( BREATH ** LOVE ))
